@@ -1,0 +1,5 @@
+C:\cygwin64\home\Starline\work\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\cygwin64\home\Starline\work\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\cygwin64\home\Starline\work\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\cygwin64\home\Starline\work\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+C:\cygwin64\home\Starline\work\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
